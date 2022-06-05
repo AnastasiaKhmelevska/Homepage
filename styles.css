@@ -14,7 +14,7 @@ body {
     --icon-color: #6a737d;
     --border-color: #ff9a0045;
     --text-decoration-color: #ff9a00;
-    background: url(/assets/background.jpg);
+    background: url(assets/background.jpg);
 }
 
 .container {
